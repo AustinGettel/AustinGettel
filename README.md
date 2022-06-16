@@ -11,14 +11,21 @@
  
   - [Configure vSphere and vCenter](https://github.com/AustinGettel/vSphere-and-vCenter-setup/blob/main/README.md)
    
+ <h2>:lock: Cyber Security:</h2>
  
-<h2>👨‍💻 Software Development Projects:</h2>
+  - [Making a SIEM in Azure Sentinel and Logging Failed RDP Attacks to Honeypot with IP Geolocation Information](https://github.com/AustinGettel/SIEM-Tutorial)
+ 
+<!---
+ 
+ <h2>👨‍💻 Software Development Projects:</h2>
+ 
  <b>Powershell</b>
  
  <b>BASH</b>
  
  <b>SQL</b>
 
+--->
 
 <h2> 🤳 Connect with me:</h2>
 
