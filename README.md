@@ -19,7 +19,7 @@
 
  <b>JavaScript</b>
 
- - [Court Counter Android App] (https://github.com/AustinGettel/courtcounter/tree/master)
+ - [Court Counter Android App](https://github.com/AustinGettel/courtcounter/tree/master)
  
 <!---
  
@@ -33,7 +33,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AustinGettel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
