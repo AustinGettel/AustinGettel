@@ -3,7 +3,7 @@
  <h2>:page_with_curl: Certifications:</h2>
  
   - [Pennsylvania Skills Certificate Computer Networking Fundamentals](https://user-images.githubusercontent.com/106196315/170710874-d62bc9ea-634c-4333-b4be-611cfea6688a.jpg)
-  - [Comptia Security+ SY0-601](https://www.credly.com/badges/525f304e-5b35-4b31-abe3-f018c0077ea4/public_url)
+  - [CompTIA Security+ SY0-601](https://www.credly.com/badges/525f304e-5b35-4b31-abe3-f018c0077ea4/public_url)
  
 <h2>:office: Networking & VM/Server Management:</h2>
  
