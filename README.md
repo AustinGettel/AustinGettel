@@ -4,7 +4,7 @@
  
   - [CompTIA Security+ SY0-601](https://www.credly.com/badges/525f304e-5b35-4b31-abe3-f018c0077ea4/public_url)
   - [Pennsylvania Skills Certificate Computer Networking Fundamentals](https://user-images.githubusercontent.com/106196315/170710874-d62bc9ea-634c-4333-b4be-611cfea6688a.jpg)
-  - [CyberNow Labs Cybersecurity Incident Response SOC Analyst UnBootCamp Certificate of Completion](https://github.com/AustinGettel/CyberNow-Labs-Certificate-of-Completion](https://user-images.githubusercontent.com/106196315/232049783-1860063d-e888-42ab-a400-d3dbe5bac2ab.jpg)) 
+  - [CyberNow Labs Cybersecurity Incident Response SOC Analyst UnBootCamp Certificate of Completion]([https://github.com/AustinGettel/CyberNow-Labs-Certificate-of-Completion](https://user-images.githubusercontent.com/106196315/232049783-1860063d-e888-42ab-a400-d3dbe5bac2ab.jpg](https://github.com/AustinGettel/CyberNow-Labs-Certificate-of-Completion))
  
 <h2>:office: Networking & VM/Server Management:</h2>
  
