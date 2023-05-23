@@ -22,9 +22,9 @@
 
  - [Court Counter Android App](https://github.com/AustinGettel/courtcounter/tree/master)
  
- <b>Python</>
+ <b>Python</b>
   
- - [Find Deleted Files Script]
+ - [Find Deleted Files Script](https://github.com/AustinGettel/find_deleted_files/blob/main/find_deleted_files.py)
  
 <!---
  
