@@ -22,6 +22,10 @@
 
  - [Court Counter Android App](https://github.com/AustinGettel/courtcounter/tree/master)
  
+ <b>Python</>
+  
+ - [Find Deleted Files Script]
+ 
 <!---
  
  <b>Powershell</b>
