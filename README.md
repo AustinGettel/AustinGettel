@@ -1,4 +1,4 @@
-<h1>Hi, I'm Austin! <br/><a href="https://github.com/austingettel">Programmer</a>, <a href="https://www.linkedin.com/in/austin-gettel-864395101/">Cybersecurity Professional</a>
+<h1>Hi, I'm Austin! <br/><a href="https://www.linkedin.com/in/austin-gettel-864395101/">Cybersecurity Professional</a>, <a href="https://github.com/austingettel">DevOps</a>
 
  <h2>:page_with_curl: Certifications:</h2>
  
